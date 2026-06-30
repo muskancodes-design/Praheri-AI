@@ -7,7 +7,7 @@ Autonomous Multi-Agent Investor Protection System for SEBI Hackathon
 
 **"We don't wait for you to ask. We watch, we reason, we act."**
 
-Built for the SEBI Hackathon — Theme: Agentic AI & Emerging Tech
+Built for the SBI Hackathon — Theme: Agentic AI & Emerging Tech
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Backend CI](https://img.shields.io/badge/backend--ci-passing-brightgreen)](.github/workflows/backend-ci.yml)
