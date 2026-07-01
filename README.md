@@ -1,5 +1,5 @@
 # Praheri-AI
-Autonomous Multi-Agent Investor Protection System for SEBI Hackathon
+Autonomous Multi-Agent Investor Protection System for SBI Hackathon
 <div align="center">
 
 # Praheri.AI
